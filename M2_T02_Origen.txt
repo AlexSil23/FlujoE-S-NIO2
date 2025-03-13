@@ -1,0 +1,5 @@
+Hola Mundo
+¿Qué tal estás?
+Usa flujos de caracteres y la instrucción try con recursos para cerrar automáticamente el archivo.
+Este ejercicio no tiene tests automáticos. El ejercicio estará correcto si se consigue crear el fichero M2_02_Destino.txt con el
+siguiente contenido
