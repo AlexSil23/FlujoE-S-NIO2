@@ -8,6 +8,7 @@
   <p>Usa flujos de caracteres y la instrucción <code>try</code> con recursos para cerrar automáticamente el archivo.</p>
 
   <p>Este ejercicio no tiene tests automáticos. El ejercicio estará correcto si se consigue crear el fichero <code>M2_02_Destino.txt</code> con el siguiente contenido:</p>
+  
 
   <pre>
     Hola-Mundo
