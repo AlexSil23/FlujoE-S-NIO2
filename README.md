@@ -10,8 +10,6 @@ Este proyecto consiste en un programa Java que lee el contenido de un archivo de
     * Se emplean `BufferedReader` y `BufferedWriter` para leer y escribir el contenido de los archivos como secuencias de caracteres. Esto es adecuado para archivos de texto, ya que permite trabajar con caracteres Unicode.
 3.  **`try-with-resources`:**
     * Se utiliza la instrucción `try-with-resources` para garantizar que los recursos (como los flujos de archivos) se cierren automáticamente después de su uso. Esto ayuda a prevenir fugas de recursos y simplifica el manejo de excepciones.
-4.  **Manipulación de Cadenas:**
-    * Se utiliza el método `String.replace()` para reemplazar todos los espacios en blanco en el contenido del archivo por guiones.
 
 ## Instrucciones
 
